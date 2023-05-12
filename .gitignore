@@ -1,0 +1,6 @@
+lambda-get-webhook-deliveries/github-app-private-key.pem
+lambda-get-webhook-deliveries/build/**/*
+lambda-get-webhook-deliveries/certs/**/*
+lambda-get-webhook-deliveries/.env
+**/node_modules/**
+response.json

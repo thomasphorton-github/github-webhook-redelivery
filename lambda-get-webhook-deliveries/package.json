@@ -1,0 +1,19 @@
+{
+  "name": "github-webhook-redelivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/auth-app": "^4.0.9",
+    "@octokit/graphql": "^5.0.5",
+    "@octokit/rest": "^19.0.7",
+    "aws-sdk": "^2.1374.0",
+    "dotenv": "^16.0.3",
+    "octokit": "^2.0.14"
+  }
+}
